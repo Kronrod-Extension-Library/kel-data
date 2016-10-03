@@ -1,0 +1,17 @@
+-----------------------------------------
+Search for recursive extensions of: P4
+Maximal allowed extension order p: 50
+Maximal allowed recursion depth: 5
+-----------------------------------------
+RULE: 0  4
+RULE: 1  4 8 
+RULE: 1  4 9 
+RULE: 1  4 11 
+RULE: 1  4 19 
+RULE: 1  4 20 
+RULE: 1  4 29 
+RULE: 1  4 30 
+RULE: 1  4 31 
+RULE: 1  4 42 
+RULE: 1  4 49 
+RULE: 1  4 50 

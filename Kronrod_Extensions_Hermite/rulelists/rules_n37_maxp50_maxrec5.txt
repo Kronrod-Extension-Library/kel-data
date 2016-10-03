@@ -1,0 +1,6 @@
+-----------------------------------------
+Search for recursive extensions of: P37
+Maximal allowed extension order p: 50
+Maximal allowed recursion depth: 5
+-----------------------------------------
+RULE: 0  37

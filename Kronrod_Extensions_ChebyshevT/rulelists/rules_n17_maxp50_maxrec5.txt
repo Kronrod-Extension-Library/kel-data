@@ -1,0 +1,9 @@
+-----------------------------------------
+Search for recursive extensions of: P17
+Maximal allowed extension order p: 50
+Maximal allowed recursion depth: 5
+-----------------------------------------
+RULE: 0  17
+RULE: 1  17 18 
+RULE: 2  17 18 34 
+RULE: 1  17 34 

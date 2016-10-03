@@ -1,0 +1,8 @@
+-----------------------------------------
+Search for recursive extensions of: P23
+Maximal allowed extension order p: 50
+Maximal allowed recursion depth: 5
+-----------------------------------------
+RULE: 0  23
+RULE: 1  23 38 
+RULE: 1  23 40 

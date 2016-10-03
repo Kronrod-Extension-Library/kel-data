@@ -1,0 +1,7 @@
+-----------------------------------------
+Search for recursive extensions of: P44
+Maximal allowed extension order p: 50
+Maximal allowed recursion depth: 5
+-----------------------------------------
+RULE: 0  44
+RULE: 1  44 45 

@@ -1,0 +1,11 @@
+-----------------------------------------
+Search for recursive extensions of: P12
+Maximal allowed extension order p: 50
+Maximal allowed recursion depth: 5
+-----------------------------------------
+RULE: 0  12
+RULE: 1  12 19 
+RULE: 1  12 21 
+RULE: 1  12 25 
+RULE: 1  12 26 
+RULE: 1  12 28 

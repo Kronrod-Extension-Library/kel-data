@@ -1,0 +1,9 @@
+-----------------------------------------
+Search for recursive extensions of: P25
+Maximal allowed extension order p: 50
+Maximal allowed recursion depth: 5
+-----------------------------------------
+RULE: 0  25
+RULE: 1  25 26 
+RULE: 2  25 26 50 
+RULE: 1  25 50 

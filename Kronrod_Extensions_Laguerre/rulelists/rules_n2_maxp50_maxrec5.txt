@@ -1,0 +1,55 @@
+-----------------------------------------
+Search for recursive extensions of: P2
+Maximal allowed extension order p: 50
+Maximal allowed recursion depth: 5
+-----------------------------------------
+RULE: 0  2
+RULE: 1  2 4 
+RULE: 2  2 4 7 
+RULE: 3  2 4 7 29 
+RULE: 2  2 4 8 
+RULE: 2  2 4 9 
+RULE: 2  2 4 10 
+RULE: 2  2 4 13 
+RULE: 2  2 4 21 
+RULE: 2  2 4 22 
+RULE: 2  2 4 23 
+RULE: 2  2 4 30 
+RULE: 2  2 4 41 
+RULE: 2  2 4 42 
+RULE: 2  2 4 43 
+RULE: 2  2 4 44 
+RULE: 2  2 4 45 
+RULE: 2  2 4 47 
+RULE: 1  2 5 
+RULE: 2  2 5 29 
+RULE: 2  2 5 30 
+RULE: 2  2 5 38 
+RULE: 2  2 5 39 
+RULE: 2  2 5 48 
+RULE: 1  2 6 
+RULE: 2  2 6 50 
+RULE: 1  2 7 
+RULE: 2  2 7 49 
+RULE: 1  2 9 
+RULE: 2  2 9 48 
+RULE: 1  2 10 
+RULE: 1  2 11 
+RULE: 1  2 15 
+RULE: 1  2 16 
+RULE: 1  2 23 
+RULE: 1  2 24 
+RULE: 1  2 25 
+RULE: 1  2 26 
+RULE: 1  2 27 
+RULE: 1  2 28 
+RULE: 1  2 29 
+RULE: 1  2 30 
+RULE: 1  2 42 
+RULE: 1  2 43 
+RULE: 1  2 44 
+RULE: 1  2 45 
+RULE: 1  2 46 
+RULE: 1  2 47 
+RULE: 1  2 48 
+RULE: 1  2 49 

@@ -1,0 +1,43 @@
+-----------------------------------------
+Search for recursive extensions of: P4
+Maximal allowed extension order p: 50
+Maximal allowed recursion depth: 5
+-----------------------------------------
+RULE: 0  4
+RULE: 1  4 5 
+RULE: 2  4 5 10 
+RULE: 3  4 5 10 20 
+RULE: 4  4 5 10 20 40 
+RULE: 3  4 5 10 40 
+RULE: 2  4 5 20 
+RULE: 3  4 5 20 30 
+RULE: 2  4 5 30 
+RULE: 3  4 5 30 40 
+RULE: 2  4 5 40 
+RULE: 3  4 5 40 50 
+RULE: 2  4 5 50 
+RULE: 1  4 10 
+RULE: 2  4 10 15 
+RULE: 3  4 10 15 30 
+RULE: 2  4 10 30 
+RULE: 3  4 10 30 45 
+RULE: 2  4 10 45 
+RULE: 1  4 15 
+RULE: 2  4 15 20 
+RULE: 3  4 15 20 40 
+RULE: 2  4 15 40 
+RULE: 1  4 20 
+RULE: 2  4 20 25 
+RULE: 3  4 20 25 50 
+RULE: 2  4 20 50 
+RULE: 1  4 25 
+RULE: 2  4 25 30 
+RULE: 1  4 30 
+RULE: 2  4 30 35 
+RULE: 1  4 35 
+RULE: 2  4 35 40 
+RULE: 1  4 40 
+RULE: 2  4 40 45 
+RULE: 1  4 45 
+RULE: 2  4 45 50 
+RULE: 1  4 50 

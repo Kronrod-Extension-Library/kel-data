@@ -1,0 +1,9 @@
+-----------------------------------------
+Search for recursive extensions of: P18
+Maximal allowed extension order p: 50
+Maximal allowed recursion depth: 5
+-----------------------------------------
+RULE: 0  18
+RULE: 1  18 19 
+RULE: 2  18 19 36 
+RULE: 1  18 36 

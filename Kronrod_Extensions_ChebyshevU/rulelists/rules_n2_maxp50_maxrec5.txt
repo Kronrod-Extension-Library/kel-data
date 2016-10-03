@@ -1,0 +1,91 @@
+-----------------------------------------
+Search for recursive extensions of: P2
+Maximal allowed extension order p: 50
+Maximal allowed recursion depth: 5
+-----------------------------------------
+RULE: 0  2
+RULE: 1  2 3 
+RULE: 2  2 3 6 
+RULE: 3  2 3 6 12 
+RULE: 4  2 3 6 12 24 
+RULE: 5  2 3 6 12 24 48 
+RULE: 4  2 3 6 12 48 
+RULE: 3  2 3 6 24 
+RULE: 4  2 3 6 24 36 
+RULE: 3  2 3 6 36 
+RULE: 4  2 3 6 36 48 
+RULE: 3  2 3 6 48 
+RULE: 2  2 3 12 
+RULE: 3  2 3 12 18 
+RULE: 4  2 3 12 18 36 
+RULE: 3  2 3 12 36 
+RULE: 2  2 3 18 
+RULE: 3  2 3 18 24 
+RULE: 4  2 3 18 24 48 
+RULE: 3  2 3 18 48 
+RULE: 2  2 3 24 
+RULE: 3  2 3 24 30 
+RULE: 2  2 3 30 
+RULE: 3  2 3 30 36 
+RULE: 2  2 3 36 
+RULE: 3  2 3 36 42 
+RULE: 2  2 3 42 
+RULE: 3  2 3 42 48 
+RULE: 2  2 3 48 
+RULE: 1  2 6 
+RULE: 2  2 6 9 
+RULE: 3  2 6 9 18 
+RULE: 4  2 6 9 18 36 
+RULE: 3  2 6 9 36 
+RULE: 2  2 6 18 
+RULE: 3  2 6 18 27 
+RULE: 2  2 6 27 
+RULE: 3  2 6 27 36 
+RULE: 2  2 6 36 
+RULE: 3  2 6 36 45 
+RULE: 2  2 6 45 
+RULE: 1  2 9 
+RULE: 2  2 9 12 
+RULE: 3  2 9 12 24 
+RULE: 4  2 9 12 24 48 
+RULE: 3  2 9 12 48 
+RULE: 2  2 9 24 
+RULE: 3  2 9 24 36 
+RULE: 2  2 9 36 
+RULE: 3  2 9 36 48 
+RULE: 2  2 9 48 
+RULE: 1  2 12 
+RULE: 2  2 12 15 
+RULE: 3  2 12 15 30 
+RULE: 2  2 12 30 
+RULE: 3  2 12 30 45 
+RULE: 2  2 12 45 
+RULE: 1  2 15 
+RULE: 2  2 15 18 
+RULE: 3  2 15 18 36 
+RULE: 2  2 15 36 
+RULE: 1  2 18 
+RULE: 2  2 18 21 
+RULE: 3  2 18 21 42 
+RULE: 2  2 18 42 
+RULE: 1  2 21 
+RULE: 2  2 21 24 
+RULE: 3  2 21 24 48 
+RULE: 2  2 21 48 
+RULE: 1  2 24 
+RULE: 2  2 24 27 
+RULE: 1  2 27 
+RULE: 2  2 27 30 
+RULE: 1  2 30 
+RULE: 2  2 30 33 
+RULE: 1  2 33 
+RULE: 2  2 33 36 
+RULE: 1  2 36 
+RULE: 2  2 36 39 
+RULE: 1  2 39 
+RULE: 2  2 39 42 
+RULE: 1  2 42 
+RULE: 2  2 42 45 
+RULE: 1  2 45 
+RULE: 2  2 45 48 
+RULE: 1  2 48 

@@ -1,0 +1,43 @@
+-----------------------------------------
+Search for recursive extensions of: P5
+Maximal allowed extension order p: 50
+Maximal allowed recursion depth: 5
+-----------------------------------------
+RULE: 0  5
+RULE: 1  5 6 
+RULE: 2  5 6 10 
+RULE: 3  5 6 10 20 
+RULE: 4  5 6 10 20 40 
+RULE: 3  5 6 10 40 
+RULE: 2  5 6 20 
+RULE: 3  5 6 20 30 
+RULE: 2  5 6 30 
+RULE: 3  5 6 30 40 
+RULE: 2  5 6 40 
+RULE: 3  5 6 40 50 
+RULE: 2  5 6 50 
+RULE: 1  5 10 
+RULE: 2  5 10 16 
+RULE: 3  5 10 16 30 
+RULE: 2  5 10 30 
+RULE: 3  5 10 30 46 
+RULE: 2  5 10 46 
+RULE: 1  5 16 
+RULE: 2  5 16 20 
+RULE: 3  5 16 20 40 
+RULE: 2  5 16 40 
+RULE: 1  5 20 
+RULE: 2  5 20 26 
+RULE: 3  5 20 26 50 
+RULE: 2  5 20 50 
+RULE: 1  5 26 
+RULE: 2  5 26 30 
+RULE: 1  5 30 
+RULE: 2  5 30 36 
+RULE: 1  5 36 
+RULE: 2  5 36 40 
+RULE: 1  5 40 
+RULE: 2  5 40 46 
+RULE: 1  5 46 
+RULE: 2  5 46 50 
+RULE: 1  5 50 

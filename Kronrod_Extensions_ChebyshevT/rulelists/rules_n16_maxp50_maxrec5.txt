@@ -1,0 +1,11 @@
+-----------------------------------------
+Search for recursive extensions of: P16
+Maximal allowed extension order p: 50
+Maximal allowed recursion depth: 5
+-----------------------------------------
+RULE: 0  16
+RULE: 1  16 17 
+RULE: 2  16 17 32 
+RULE: 1  16 32 
+RULE: 2  16 32 49 
+RULE: 1  16 49 

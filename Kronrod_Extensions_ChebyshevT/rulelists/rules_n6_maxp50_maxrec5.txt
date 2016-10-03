@@ -1,0 +1,33 @@
+-----------------------------------------
+Search for recursive extensions of: P6
+Maximal allowed extension order p: 50
+Maximal allowed recursion depth: 5
+-----------------------------------------
+RULE: 0  6
+RULE: 1  6 7 
+RULE: 2  6 7 12 
+RULE: 3  6 7 12 24 
+RULE: 4  6 7 12 24 48 
+RULE: 3  6 7 12 48 
+RULE: 2  6 7 24 
+RULE: 3  6 7 24 36 
+RULE: 2  6 7 36 
+RULE: 3  6 7 36 48 
+RULE: 2  6 7 48 
+RULE: 1  6 12 
+RULE: 2  6 12 19 
+RULE: 3  6 12 19 36 
+RULE: 2  6 12 36 
+RULE: 1  6 19 
+RULE: 2  6 19 24 
+RULE: 3  6 19 24 48 
+RULE: 2  6 19 48 
+RULE: 1  6 24 
+RULE: 2  6 24 31 
+RULE: 1  6 31 
+RULE: 2  6 31 36 
+RULE: 1  6 36 
+RULE: 2  6 36 43 
+RULE: 1  6 43 
+RULE: 2  6 43 48 
+RULE: 1  6 48 
