@@ -18,7 +18,6 @@ A parallel version  using 16 cpu cores is:
 
 ```
 seq 1 50 | parallel -j16 --will-cite 'rekes {} 50 5 > rules_n{}_maxp50_maxrec5.txt'
-
 ```
 
 Compute rule data
