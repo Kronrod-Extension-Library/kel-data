@@ -1,0 +1,11 @@
+-----------------------------------------
+Search for recursive extensions of: P32
+Maximal allowed extension order p: 100
+Maximal allowed recursion depth: 6
+-----------------------------------------
+RULE: 0  32
+RULE: 1  32 33 
+RULE: 2  32 33 66 
+RULE: 1  32 66 
+RULE: 2  32 66 99 
+RULE: 1  32 99 

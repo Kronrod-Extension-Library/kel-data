@@ -1,0 +1,127 @@
+-----------------------------------------
+Search for recursive extensions of: P4
+Maximal allowed extension order p: 100
+Maximal allowed recursion depth: 6
+-----------------------------------------
+RULE: 0  4
+RULE: 1  4 5 
+RULE: 2  4 5 10 
+RULE: 3  4 5 10 20 
+RULE: 4  4 5 10 20 40 
+RULE: 5  4 5 10 20 40 80 
+RULE: 4  4 5 10 20 80 
+RULE: 3  4 5 10 40 
+RULE: 4  4 5 10 40 60 
+RULE: 3  4 5 10 60 
+RULE: 4  4 5 10 60 80 
+RULE: 3  4 5 10 80 
+RULE: 4  4 5 10 80 100 
+RULE: 3  4 5 10 100 
+RULE: 2  4 5 20 
+RULE: 3  4 5 20 30 
+RULE: 4  4 5 20 30 60 
+RULE: 3  4 5 20 60 
+RULE: 4  4 5 20 60 90 
+RULE: 3  4 5 20 90 
+RULE: 2  4 5 30 
+RULE: 3  4 5 30 40 
+RULE: 4  4 5 30 40 80 
+RULE: 3  4 5 30 80 
+RULE: 2  4 5 40 
+RULE: 3  4 5 40 50 
+RULE: 4  4 5 40 50 100 
+RULE: 3  4 5 40 100 
+RULE: 2  4 5 50 
+RULE: 3  4 5 50 60 
+RULE: 2  4 5 60 
+RULE: 3  4 5 60 70 
+RULE: 2  4 5 70 
+RULE: 3  4 5 70 80 
+RULE: 2  4 5 80 
+RULE: 3  4 5 80 90 
+RULE: 2  4 5 90 
+RULE: 3  4 5 90 100 
+RULE: 2  4 5 100 
+RULE: 1  4 10 
+RULE: 2  4 10 15 
+RULE: 3  4 10 15 30 
+RULE: 4  4 10 15 30 60 
+RULE: 3  4 10 15 60 
+RULE: 4  4 10 15 60 90 
+RULE: 3  4 10 15 90 
+RULE: 2  4 10 30 
+RULE: 3  4 10 30 45 
+RULE: 4  4 10 30 45 90 
+RULE: 3  4 10 30 90 
+RULE: 2  4 10 45 
+RULE: 3  4 10 45 60 
+RULE: 2  4 10 60 
+RULE: 3  4 10 60 75 
+RULE: 2  4 10 75 
+RULE: 3  4 10 75 90 
+RULE: 2  4 10 90 
+RULE: 1  4 15 
+RULE: 2  4 15 20 
+RULE: 3  4 15 20 40 
+RULE: 4  4 15 20 40 80 
+RULE: 3  4 15 20 80 
+RULE: 2  4 15 40 
+RULE: 3  4 15 40 60 
+RULE: 2  4 15 60 
+RULE: 3  4 15 60 80 
+RULE: 2  4 15 80 
+RULE: 3  4 15 80 100 
+RULE: 2  4 15 100 
+RULE: 1  4 20 
+RULE: 2  4 20 25 
+RULE: 3  4 20 25 50 
+RULE: 4  4 20 25 50 100 
+RULE: 3  4 20 25 100 
+RULE: 2  4 20 50 
+RULE: 3  4 20 50 75 
+RULE: 2  4 20 75 
+RULE: 3  4 20 75 100 
+RULE: 2  4 20 100 
+RULE: 1  4 25 
+RULE: 2  4 25 30 
+RULE: 3  4 25 30 60 
+RULE: 2  4 25 60 
+RULE: 3  4 25 60 90 
+RULE: 2  4 25 90 
+RULE: 1  4 30 
+RULE: 2  4 30 35 
+RULE: 3  4 30 35 70 
+RULE: 2  4 30 70 
+RULE: 1  4 35 
+RULE: 2  4 35 40 
+RULE: 3  4 35 40 80 
+RULE: 2  4 35 80 
+RULE: 1  4 40 
+RULE: 2  4 40 45 
+RULE: 3  4 40 45 90 
+RULE: 2  4 40 90 
+RULE: 1  4 45 
+RULE: 2  4 45 50 
+RULE: 3  4 45 50 100 
+RULE: 2  4 45 100 
+RULE: 1  4 50 
+RULE: 2  4 50 55 
+RULE: 1  4 55 
+RULE: 2  4 55 60 
+RULE: 1  4 60 
+RULE: 2  4 60 65 
+RULE: 1  4 65 
+RULE: 2  4 65 70 
+RULE: 1  4 70 
+RULE: 2  4 70 75 
+RULE: 1  4 75 
+RULE: 2  4 75 80 
+RULE: 1  4 80 
+RULE: 2  4 80 85 
+RULE: 1  4 85 
+RULE: 2  4 85 90 
+RULE: 1  4 90 
+RULE: 2  4 90 95 
+RULE: 1  4 95 
+RULE: 2  4 95 100 
+RULE: 1  4 100 

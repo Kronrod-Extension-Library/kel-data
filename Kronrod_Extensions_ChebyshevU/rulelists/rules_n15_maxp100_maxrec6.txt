@@ -1,0 +1,23 @@
+-----------------------------------------
+Search for recursive extensions of: P15
+Maximal allowed extension order p: 100
+Maximal allowed recursion depth: 6
+-----------------------------------------
+RULE: 0  15
+RULE: 1  15 16 
+RULE: 2  15 16 32 
+RULE: 3  15 16 32 64 
+RULE: 2  15 16 64 
+RULE: 3  15 16 64 96 
+RULE: 2  15 16 96 
+RULE: 1  15 32 
+RULE: 2  15 32 48 
+RULE: 3  15 32 48 96 
+RULE: 2  15 32 96 
+RULE: 1  15 48 
+RULE: 2  15 48 64 
+RULE: 1  15 64 
+RULE: 2  15 64 80 
+RULE: 1  15 80 
+RULE: 2  15 80 96 
+RULE: 1  15 96 

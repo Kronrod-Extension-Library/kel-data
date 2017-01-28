@@ -1,0 +1,126 @@
+-----------------------------------------
+Search for recursive extensions of: P4
+Maximal allowed extension order p: 100
+Maximal allowed recursion depth: 6
+-----------------------------------------
+RULE: 0  4
+RULE: 1  4 5 
+RULE: 2  4 5 8 
+RULE: 3  4 5 8 18 
+RULE: 4  4 5 8 18 44 
+RULE: 3  4 5 8 36 
+RULE: 3  4 5 8 44 
+RULE: 3  4 5 8 46 
+RULE: 3  4 5 8 48 
+RULE: 3  4 5 8 78 
+RULE: 3  4 5 8 80 
+RULE: 2  4 5 10 
+RULE: 3  4 5 10 36 
+RULE: 4  4 5 10 36 54 
+RULE: 4  4 5 10 36 56 
+RULE: 3  4 5 10 38 
+RULE: 3  4 5 10 46 
+RULE: 3  4 5 10 48 
+RULE: 3  4 5 10 52 
+RULE: 3  4 5 10 54 
+RULE: 2  4 5 14 
+RULE: 2  4 5 22 
+RULE: 3  4 5 22 42 
+RULE: 2  4 5 30 
+RULE: 3  4 5 30 48 
+RULE: 2  4 5 32 
+RULE: 2  4 5 34 
+RULE: 2  4 5 36 
+RULE: 2  4 5 38 
+RULE: 2  4 5 40 
+RULE: 2  4 5 54 
+RULE: 2  4 5 56 
+RULE: 2  4 5 58 
+RULE: 2  4 5 60 
+RULE: 2  4 5 68 
+RULE: 2  4 5 70 
+RULE: 2  4 5 72 
+RULE: 2  4 5 82 
+RULE: 2  4 5 84 
+RULE: 1  4 7 
+RULE: 2  4 7 30 
+RULE: 2  4 7 40 
+RULE: 2  4 7 42 
+RULE: 2  4 7 48 
+RULE: 2  4 7 50 
+RULE: 2  4 7 52 
+RULE: 2  4 7 60 
+RULE: 2  4 7 62 
+RULE: 1  4 9 
+RULE: 2  4 9 30 
+RULE: 2  4 9 44 
+RULE: 2  4 9 94 
+RULE: 2  4 9 96 
+RULE: 2  4 9 98 
+RULE: 1  4 10 
+RULE: 2  4 10 18 
+RULE: 2  4 10 19 
+RULE: 2  4 10 20 
+RULE: 2  4 10 21 
+RULE: 2  4 10 23 
+RULE: 2  4 10 25 
+RULE: 2  4 10 31 
+RULE: 2  4 10 55 
+RULE: 2  4 10 57 
+RULE: 2  4 10 59 
+RULE: 2  4 10 65 
+RULE: 2  4 10 67 
+RULE: 2  4 10 90 
+RULE: 2  4 10 95 
+RULE: 1  4 11 
+RULE: 2  4 11 26 
+RULE: 2  4 11 28 
+RULE: 2  4 11 100 
+RULE: 1  4 15 
+RULE: 2  4 15 22 
+RULE: 2  4 15 24 
+RULE: 2  4 15 28 
+RULE: 2  4 15 30 
+RULE: 1  4 20 
+RULE: 2  4 20 29 
+RULE: 2  4 20 31 
+RULE: 2  4 20 39 
+RULE: 1  4 22 
+RULE: 1  4 24 
+RULE: 1  4 26 
+RULE: 1  4 27 
+RULE: 2  4 27 44 
+RULE: 2  4 27 46 
+RULE: 1  4 28 
+RULE: 1  4 29 
+RULE: 1  4 30 
+RULE: 1  4 31 
+RULE: 1  4 33 
+RULE: 1  4 35 
+RULE: 1  4 36 
+RULE: 1  4 38 
+RULE: 2  4 38 57 
+RULE: 1  4 43 
+RULE: 1  4 45 
+RULE: 1  4 47 
+RULE: 1  4 49 
+RULE: 1  4 51 
+RULE: 1  4 53 
+RULE: 1  4 54 
+RULE: 1  4 55 
+RULE: 1  4 63 
+RULE: 1  4 65 
+RULE: 1  4 67 
+RULE: 1  4 69 
+RULE: 1  4 74 
+RULE: 1  4 76 
+RULE: 1  4 78 
+RULE: 1  4 80 
+RULE: 1  4 82 
+RULE: 1  4 84 
+RULE: 1  4 86 
+RULE: 1  4 87 
+RULE: 1  4 88 
+RULE: 1  4 89 
+RULE: 1  4 90 
+RULE: 1  4 100 

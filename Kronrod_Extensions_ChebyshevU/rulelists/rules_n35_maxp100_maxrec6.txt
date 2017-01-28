@@ -1,0 +1,9 @@
+-----------------------------------------
+Search for recursive extensions of: P35
+Maximal allowed extension order p: 100
+Maximal allowed recursion depth: 6
+-----------------------------------------
+RULE: 0  35
+RULE: 1  35 36 
+RULE: 2  35 36 72 
+RULE: 1  35 72 

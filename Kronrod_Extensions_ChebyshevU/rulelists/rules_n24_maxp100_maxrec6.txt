@@ -1,0 +1,15 @@
+-----------------------------------------
+Search for recursive extensions of: P24
+Maximal allowed extension order p: 100
+Maximal allowed recursion depth: 6
+-----------------------------------------
+RULE: 0  24
+RULE: 1  24 25 
+RULE: 2  24 25 50 
+RULE: 3  24 25 50 100 
+RULE: 2  24 25 100 
+RULE: 1  24 50 
+RULE: 2  24 50 75 
+RULE: 1  24 75 
+RULE: 2  24 75 100 
+RULE: 1  24 100 

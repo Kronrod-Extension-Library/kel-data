@@ -1,0 +1,185 @@
+-----------------------------------------
+Search for recursive extensions of: P3
+Maximal allowed extension order p: 100
+Maximal allowed recursion depth: 6
+-----------------------------------------
+RULE: 0  3
+RULE: 1  3 4 
+RULE: 2  3 4 8 
+RULE: 3  3 4 8 16 
+RULE: 4  3 4 8 16 32 
+RULE: 5  3 4 8 16 32 64 
+RULE: 4  3 4 8 16 64 
+RULE: 5  3 4 8 16 64 96 
+RULE: 4  3 4 8 16 96 
+RULE: 3  3 4 8 32 
+RULE: 4  3 4 8 32 48 
+RULE: 5  3 4 8 32 48 96 
+RULE: 4  3 4 8 32 96 
+RULE: 3  3 4 8 48 
+RULE: 4  3 4 8 48 64 
+RULE: 3  3 4 8 64 
+RULE: 4  3 4 8 64 80 
+RULE: 3  3 4 8 80 
+RULE: 4  3 4 8 80 96 
+RULE: 3  3 4 8 96 
+RULE: 2  3 4 16 
+RULE: 3  3 4 16 24 
+RULE: 4  3 4 16 24 48 
+RULE: 5  3 4 16 24 48 96 
+RULE: 4  3 4 16 24 96 
+RULE: 3  3 4 16 48 
+RULE: 4  3 4 16 48 72 
+RULE: 3  3 4 16 72 
+RULE: 4  3 4 16 72 96 
+RULE: 3  3 4 16 96 
+RULE: 2  3 4 24 
+RULE: 3  3 4 24 32 
+RULE: 4  3 4 24 32 64 
+RULE: 3  3 4 24 64 
+RULE: 4  3 4 24 64 96 
+RULE: 3  3 4 24 96 
+RULE: 2  3 4 32 
+RULE: 3  3 4 32 40 
+RULE: 4  3 4 32 40 80 
+RULE: 3  3 4 32 80 
+RULE: 2  3 4 40 
+RULE: 3  3 4 40 48 
+RULE: 4  3 4 40 48 96 
+RULE: 3  3 4 40 96 
+RULE: 2  3 4 48 
+RULE: 3  3 4 48 56 
+RULE: 2  3 4 56 
+RULE: 3  3 4 56 64 
+RULE: 2  3 4 64 
+RULE: 3  3 4 64 72 
+RULE: 2  3 4 72 
+RULE: 3  3 4 72 80 
+RULE: 2  3 4 80 
+RULE: 3  3 4 80 88 
+RULE: 2  3 4 88 
+RULE: 3  3 4 88 96 
+RULE: 2  3 4 96 
+RULE: 1  3 8 
+RULE: 2  3 8 12 
+RULE: 3  3 8 12 24 
+RULE: 4  3 8 12 24 48 
+RULE: 5  3 8 12 24 48 96 
+RULE: 4  3 8 12 24 96 
+RULE: 3  3 8 12 48 
+RULE: 4  3 8 12 48 72 
+RULE: 3  3 8 12 72 
+RULE: 4  3 8 12 72 96 
+RULE: 3  3 8 12 96 
+RULE: 2  3 8 24 
+RULE: 3  3 8 24 36 
+RULE: 4  3 8 24 36 72 
+RULE: 3  3 8 24 72 
+RULE: 2  3 8 36 
+RULE: 3  3 8 36 48 
+RULE: 4  3 8 36 48 96 
+RULE: 3  3 8 36 96 
+RULE: 2  3 8 48 
+RULE: 3  3 8 48 60 
+RULE: 2  3 8 60 
+RULE: 3  3 8 60 72 
+RULE: 2  3 8 72 
+RULE: 3  3 8 72 84 
+RULE: 2  3 8 84 
+RULE: 3  3 8 84 96 
+RULE: 2  3 8 96 
+RULE: 1  3 12 
+RULE: 2  3 12 16 
+RULE: 3  3 12 16 32 
+RULE: 4  3 12 16 32 64 
+RULE: 3  3 12 16 64 
+RULE: 4  3 12 16 64 96 
+RULE: 3  3 12 16 96 
+RULE: 2  3 12 32 
+RULE: 3  3 12 32 48 
+RULE: 4  3 12 32 48 96 
+RULE: 3  3 12 32 96 
+RULE: 2  3 12 48 
+RULE: 3  3 12 48 64 
+RULE: 2  3 12 64 
+RULE: 3  3 12 64 80 
+RULE: 2  3 12 80 
+RULE: 3  3 12 80 96 
+RULE: 2  3 12 96 
+RULE: 1  3 16 
+RULE: 2  3 16 20 
+RULE: 3  3 16 20 40 
+RULE: 4  3 16 20 40 80 
+RULE: 3  3 16 20 80 
+RULE: 2  3 16 40 
+RULE: 3  3 16 40 60 
+RULE: 2  3 16 60 
+RULE: 3  3 16 60 80 
+RULE: 2  3 16 80 
+RULE: 3  3 16 80 100 
+RULE: 2  3 16 100 
+RULE: 1  3 20 
+RULE: 2  3 20 24 
+RULE: 3  3 20 24 48 
+RULE: 4  3 20 24 48 96 
+RULE: 3  3 20 24 96 
+RULE: 2  3 20 48 
+RULE: 3  3 20 48 72 
+RULE: 2  3 20 72 
+RULE: 3  3 20 72 96 
+RULE: 2  3 20 96 
+RULE: 1  3 24 
+RULE: 2  3 24 28 
+RULE: 3  3 24 28 56 
+RULE: 2  3 24 56 
+RULE: 3  3 24 56 84 
+RULE: 2  3 24 84 
+RULE: 1  3 28 
+RULE: 2  3 28 32 
+RULE: 3  3 28 32 64 
+RULE: 2  3 28 64 
+RULE: 3  3 28 64 96 
+RULE: 2  3 28 96 
+RULE: 1  3 32 
+RULE: 2  3 32 36 
+RULE: 3  3 32 36 72 
+RULE: 2  3 32 72 
+RULE: 1  3 36 
+RULE: 2  3 36 40 
+RULE: 3  3 36 40 80 
+RULE: 2  3 36 80 
+RULE: 1  3 40 
+RULE: 2  3 40 44 
+RULE: 3  3 40 44 88 
+RULE: 2  3 40 88 
+RULE: 1  3 44 
+RULE: 2  3 44 48 
+RULE: 3  3 44 48 96 
+RULE: 2  3 44 96 
+RULE: 1  3 48 
+RULE: 2  3 48 52 
+RULE: 1  3 52 
+RULE: 2  3 52 56 
+RULE: 1  3 56 
+RULE: 2  3 56 60 
+RULE: 1  3 60 
+RULE: 2  3 60 64 
+RULE: 1  3 64 
+RULE: 2  3 64 68 
+RULE: 1  3 68 
+RULE: 2  3 68 72 
+RULE: 1  3 72 
+RULE: 2  3 72 76 
+RULE: 1  3 76 
+RULE: 2  3 76 80 
+RULE: 1  3 80 
+RULE: 2  3 80 84 
+RULE: 1  3 84 
+RULE: 2  3 84 88 
+RULE: 1  3 88 
+RULE: 2  3 88 92 
+RULE: 1  3 92 
+RULE: 2  3 92 96 
+RULE: 1  3 96 
+RULE: 2  3 96 100 
+RULE: 1  3 100 

@@ -1,0 +1,9 @@
+-----------------------------------------
+Search for recursive extensions of: P47
+Maximal allowed extension order p: 100
+Maximal allowed recursion depth: 6
+-----------------------------------------
+RULE: 0  47
+RULE: 1  47 48 
+RULE: 2  47 48 94 
+RULE: 1  47 94 

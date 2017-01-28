@@ -1,0 +1,12 @@
+-----------------------------------------
+Search for recursive extensions of: P13
+Maximal allowed extension order p: 100
+Maximal allowed recursion depth: 6
+-----------------------------------------
+RULE: 0  13
+RULE: 1  13 20 
+RULE: 1  13 22 
+RULE: 1  13 26 
+RULE: 1  13 72 
+RULE: 1  13 74 
+RULE: 1  13 92 

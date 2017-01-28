@@ -1,0 +1,9 @@
+-----------------------------------------
+Search for recursive extensions of: P34
+Maximal allowed extension order p: 100
+Maximal allowed recursion depth: 6
+-----------------------------------------
+RULE: 0  34
+RULE: 1  34 35 
+RULE: 2  34 35 70 
+RULE: 1  34 70 

@@ -1,0 +1,43 @@
+-----------------------------------------
+Search for recursive extensions of: P8
+Maximal allowed extension order p: 100
+Maximal allowed recursion depth: 6
+-----------------------------------------
+RULE: 0  8
+RULE: 1  8 11 
+RULE: 2  8 11 16 
+RULE: 2  8 11 18 
+RULE: 3  8 11 18 66 
+RULE: 2  8 11 28 
+RULE: 2  8 11 46 
+RULE: 2  8 11 48 
+RULE: 2  8 11 54 
+RULE: 2  8 11 56 
+RULE: 2  8 11 62 
+RULE: 2  8 11 64 
+RULE: 1  8 13 
+RULE: 2  8 13 68 
+RULE: 2  8 13 70 
+RULE: 2  8 13 84 
+RULE: 2  8 13 86 
+RULE: 1  8 15 
+RULE: 1  8 16 
+RULE: 2  8 16 56 
+RULE: 1  8 17 
+RULE: 1  8 19 
+RULE: 1  8 22 
+RULE: 2  8 22 39 
+RULE: 1  8 40 
+RULE: 1  8 42 
+RULE: 1  8 44 
+RULE: 1  8 50 
+RULE: 1  8 52 
+RULE: 1  8 54 
+RULE: 1  8 55 
+RULE: 1  8 57 
+RULE: 1  8 59 
+RULE: 1  8 81 
+RULE: 1  8 83 
+RULE: 1  8 95 
+RULE: 1  8 97 
+RULE: 1  8 99 

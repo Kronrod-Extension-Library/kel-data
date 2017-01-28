@@ -1,0 +1,15 @@
+-----------------------------------------
+Search for recursive extensions of: P21
+Maximal allowed extension order p: 100
+Maximal allowed recursion depth: 6
+-----------------------------------------
+RULE: 0  21
+RULE: 1  21 22 
+RULE: 2  21 22 44 
+RULE: 3  21 22 44 88 
+RULE: 2  21 22 88 
+RULE: 1  21 44 
+RULE: 2  21 44 66 
+RULE: 1  21 66 
+RULE: 2  21 66 88 
+RULE: 1  21 88 

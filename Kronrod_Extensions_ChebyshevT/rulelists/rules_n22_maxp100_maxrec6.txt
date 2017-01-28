@@ -1,0 +1,15 @@
+-----------------------------------------
+Search for recursive extensions of: P22
+Maximal allowed extension order p: 100
+Maximal allowed recursion depth: 6
+-----------------------------------------
+RULE: 0  22
+RULE: 1  22 23 
+RULE: 2  22 23 44 
+RULE: 3  22 23 44 88 
+RULE: 2  22 23 88 
+RULE: 1  22 44 
+RULE: 2  22 44 67 
+RULE: 1  22 67 
+RULE: 2  22 67 88 
+RULE: 1  22 88 

@@ -1,0 +1,45 @@
+-----------------------------------------
+Search for recursive extensions of: P9
+Maximal allowed extension order p: 100
+Maximal allowed recursion depth: 6
+-----------------------------------------
+RULE: 0  9
+RULE: 1  9 10 
+RULE: 2  9 10 18 
+RULE: 3  9 10 18 36 
+RULE: 4  9 10 18 36 72 
+RULE: 3  9 10 18 72 
+RULE: 2  9 10 36 
+RULE: 3  9 10 36 54 
+RULE: 2  9 10 54 
+RULE: 3  9 10 54 72 
+RULE: 2  9 10 72 
+RULE: 3  9 10 72 90 
+RULE: 2  9 10 90 
+RULE: 1  9 18 
+RULE: 2  9 18 28 
+RULE: 3  9 18 28 54 
+RULE: 2  9 18 54 
+RULE: 3  9 18 54 82 
+RULE: 2  9 18 82 
+RULE: 1  9 28 
+RULE: 2  9 28 36 
+RULE: 3  9 28 36 72 
+RULE: 2  9 28 72 
+RULE: 1  9 36 
+RULE: 2  9 36 46 
+RULE: 3  9 36 46 90 
+RULE: 2  9 36 90 
+RULE: 1  9 46 
+RULE: 2  9 46 54 
+RULE: 1  9 54 
+RULE: 2  9 54 64 
+RULE: 1  9 64 
+RULE: 2  9 64 72 
+RULE: 1  9 72 
+RULE: 2  9 72 82 
+RULE: 1  9 82 
+RULE: 2  9 82 90 
+RULE: 1  9 90 
+RULE: 2  9 90 100 
+RULE: 1  9 100 

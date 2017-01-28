@@ -1,0 +1,9 @@
+-----------------------------------------
+Search for recursive extensions of: P38
+Maximal allowed extension order p: 100
+Maximal allowed recursion depth: 6
+-----------------------------------------
+RULE: 0  38
+RULE: 1  38 39 
+RULE: 2  38 39 78 
+RULE: 1  38 78 

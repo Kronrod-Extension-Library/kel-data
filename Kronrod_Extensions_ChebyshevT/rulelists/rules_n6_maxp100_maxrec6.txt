@@ -1,0 +1,91 @@
+-----------------------------------------
+Search for recursive extensions of: P6
+Maximal allowed extension order p: 100
+Maximal allowed recursion depth: 6
+-----------------------------------------
+RULE: 0  6
+RULE: 1  6 7 
+RULE: 2  6 7 12 
+RULE: 3  6 7 12 24 
+RULE: 4  6 7 12 24 48 
+RULE: 5  6 7 12 24 48 96 
+RULE: 4  6 7 12 24 96 
+RULE: 3  6 7 12 48 
+RULE: 4  6 7 12 48 72 
+RULE: 3  6 7 12 72 
+RULE: 4  6 7 12 72 96 
+RULE: 3  6 7 12 96 
+RULE: 2  6 7 24 
+RULE: 3  6 7 24 36 
+RULE: 4  6 7 24 36 72 
+RULE: 3  6 7 24 72 
+RULE: 2  6 7 36 
+RULE: 3  6 7 36 48 
+RULE: 4  6 7 36 48 96 
+RULE: 3  6 7 36 96 
+RULE: 2  6 7 48 
+RULE: 3  6 7 48 60 
+RULE: 2  6 7 60 
+RULE: 3  6 7 60 72 
+RULE: 2  6 7 72 
+RULE: 3  6 7 72 84 
+RULE: 2  6 7 84 
+RULE: 3  6 7 84 96 
+RULE: 2  6 7 96 
+RULE: 1  6 12 
+RULE: 2  6 12 19 
+RULE: 3  6 12 19 36 
+RULE: 4  6 12 19 36 72 
+RULE: 3  6 12 19 72 
+RULE: 2  6 12 36 
+RULE: 3  6 12 36 55 
+RULE: 2  6 12 55 
+RULE: 3  6 12 55 72 
+RULE: 2  6 12 72 
+RULE: 3  6 12 72 91 
+RULE: 2  6 12 91 
+RULE: 1  6 19 
+RULE: 2  6 19 24 
+RULE: 3  6 19 24 48 
+RULE: 4  6 19 24 48 96 
+RULE: 3  6 19 24 96 
+RULE: 2  6 19 48 
+RULE: 3  6 19 48 72 
+RULE: 2  6 19 72 
+RULE: 3  6 19 72 96 
+RULE: 2  6 19 96 
+RULE: 1  6 24 
+RULE: 2  6 24 31 
+RULE: 3  6 24 31 60 
+RULE: 2  6 24 60 
+RULE: 3  6 24 60 91 
+RULE: 2  6 24 91 
+RULE: 1  6 31 
+RULE: 2  6 31 36 
+RULE: 3  6 31 36 72 
+RULE: 2  6 31 72 
+RULE: 1  6 36 
+RULE: 2  6 36 43 
+RULE: 3  6 36 43 84 
+RULE: 2  6 36 84 
+RULE: 1  6 43 
+RULE: 2  6 43 48 
+RULE: 3  6 43 48 96 
+RULE: 2  6 43 96 
+RULE: 1  6 48 
+RULE: 2  6 48 55 
+RULE: 1  6 55 
+RULE: 2  6 55 60 
+RULE: 1  6 60 
+RULE: 2  6 60 67 
+RULE: 1  6 67 
+RULE: 2  6 67 72 
+RULE: 1  6 72 
+RULE: 2  6 72 79 
+RULE: 1  6 79 
+RULE: 2  6 79 84 
+RULE: 1  6 84 
+RULE: 2  6 84 91 
+RULE: 1  6 91 
+RULE: 2  6 91 96 
+RULE: 1  6 96 

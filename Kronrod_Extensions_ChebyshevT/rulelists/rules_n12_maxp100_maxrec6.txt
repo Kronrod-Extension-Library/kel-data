@@ -1,0 +1,33 @@
+-----------------------------------------
+Search for recursive extensions of: P12
+Maximal allowed extension order p: 100
+Maximal allowed recursion depth: 6
+-----------------------------------------
+RULE: 0  12
+RULE: 1  12 13 
+RULE: 2  12 13 24 
+RULE: 3  12 13 24 48 
+RULE: 4  12 13 24 48 96 
+RULE: 3  12 13 24 96 
+RULE: 2  12 13 48 
+RULE: 3  12 13 48 72 
+RULE: 2  12 13 72 
+RULE: 3  12 13 72 96 
+RULE: 2  12 13 96 
+RULE: 1  12 24 
+RULE: 2  12 24 37 
+RULE: 3  12 24 37 72 
+RULE: 2  12 24 72 
+RULE: 1  12 37 
+RULE: 2  12 37 48 
+RULE: 3  12 37 48 96 
+RULE: 2  12 37 96 
+RULE: 1  12 48 
+RULE: 2  12 48 61 
+RULE: 1  12 61 
+RULE: 2  12 61 72 
+RULE: 1  12 72 
+RULE: 2  12 72 85 
+RULE: 1  12 85 
+RULE: 2  12 85 96 
+RULE: 1  12 96 

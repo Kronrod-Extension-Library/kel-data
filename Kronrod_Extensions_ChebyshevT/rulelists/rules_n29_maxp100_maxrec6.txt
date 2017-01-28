@@ -1,0 +1,11 @@
+-----------------------------------------
+Search for recursive extensions of: P29
+Maximal allowed extension order p: 100
+Maximal allowed recursion depth: 6
+-----------------------------------------
+RULE: 0  29
+RULE: 1  29 30 
+RULE: 2  29 30 58 
+RULE: 1  29 58 
+RULE: 2  29 58 88 
+RULE: 1  29 88 

@@ -1,0 +1,11 @@
+-----------------------------------------
+Search for recursive extensions of: P26
+Maximal allowed extension order p: 100
+Maximal allowed recursion depth: 6
+-----------------------------------------
+RULE: 0  26
+RULE: 1  26 27 
+RULE: 2  26 27 54 
+RULE: 1  26 54 
+RULE: 2  26 54 81 
+RULE: 1  26 81 

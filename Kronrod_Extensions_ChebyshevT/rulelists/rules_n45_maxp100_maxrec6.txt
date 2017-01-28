@@ -1,0 +1,9 @@
+-----------------------------------------
+Search for recursive extensions of: P45
+Maximal allowed extension order p: 100
+Maximal allowed recursion depth: 6
+-----------------------------------------
+RULE: 0  45
+RULE: 1  45 46 
+RULE: 2  45 46 90 
+RULE: 1  45 90 

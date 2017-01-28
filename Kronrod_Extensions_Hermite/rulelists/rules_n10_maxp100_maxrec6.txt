@@ -1,0 +1,20 @@
+-----------------------------------------
+Search for recursive extensions of: P10
+Maximal allowed extension order p: 100
+Maximal allowed recursion depth: 6
+-----------------------------------------
+RULE: 0  10
+RULE: 1  10 15 
+RULE: 2  10 15 92 
+RULE: 1  10 17 
+RULE: 1  10 19 
+RULE: 1  10 20 
+RULE: 1  10 21 
+RULE: 1  10 23 
+RULE: 1  10 48 
+RULE: 1  10 50 
+RULE: 1  10 52 
+RULE: 1  10 58 
+RULE: 1  10 60 
+RULE: 1  10 62 
+RULE: 1  10 85 

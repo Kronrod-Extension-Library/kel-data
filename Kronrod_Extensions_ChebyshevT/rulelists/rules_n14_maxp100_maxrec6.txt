@@ -1,0 +1,25 @@
+-----------------------------------------
+Search for recursive extensions of: P14
+Maximal allowed extension order p: 100
+Maximal allowed recursion depth: 6
+-----------------------------------------
+RULE: 0  14
+RULE: 1  14 15 
+RULE: 2  14 15 28 
+RULE: 3  14 15 28 56 
+RULE: 2  14 15 56 
+RULE: 3  14 15 56 84 
+RULE: 2  14 15 84 
+RULE: 1  14 28 
+RULE: 2  14 28 43 
+RULE: 3  14 28 43 84 
+RULE: 2  14 28 84 
+RULE: 1  14 43 
+RULE: 2  14 43 56 
+RULE: 1  14 56 
+RULE: 2  14 56 71 
+RULE: 1  14 71 
+RULE: 2  14 71 84 
+RULE: 1  14 84 
+RULE: 2  14 84 99 
+RULE: 1  14 99 

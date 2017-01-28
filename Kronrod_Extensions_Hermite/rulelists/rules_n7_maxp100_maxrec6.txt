@@ -1,0 +1,26 @@
+-----------------------------------------
+Search for recursive extensions of: P7
+Maximal allowed extension order p: 100
+Maximal allowed recursion depth: 6
+-----------------------------------------
+RULE: 0  7
+RULE: 1  7 12 
+RULE: 2  7 12 64 
+RULE: 2  7 12 66 
+RULE: 2  7 12 78 
+RULE: 1  7 14 
+RULE: 1  7 16 
+RULE: 1  7 20 
+RULE: 1  7 38 
+RULE: 1  7 40 
+RULE: 1  7 42 
+RULE: 1  7 48 
+RULE: 1  7 50 
+RULE: 1  7 52 
+RULE: 1  7 76 
+RULE: 1  7 78 
+RULE: 1  7 90 
+RULE: 1  7 92 
+RULE: 1  7 94 
+RULE: 1  7 96 
+RULE: 1  7 98 
